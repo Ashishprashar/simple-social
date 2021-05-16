@@ -1,0 +1,33 @@
+.navbar-brand, .navbar-nav>li>a{
+    background-color: rgb(129, 129, 182);
+    color: darkgray;
+}
+*{
+    overflow:visible
+}
+.mynav {
+    background-color: rgb(129, 129, 182);
+    color: darkgray;
+}
+.form-group ,h4{
+    width:50%;
+    margin: auto;
+    margin-top: 10px ;
+    margin-bottom: 10px;
+}
+.form-btn , h4,input{
+    margin: auto;
+    display: flex;
+}
+button, html input[type=button], input[type=reset], input[type=submit] {
+   
+    margin: auto;
+    display: flex;
+}
+.container-fluid{
+    padding: 20px;
+    border: darkgray solid 2px;
+}
+.col-md-8{
+    border-left: darkgray solid 2px;
+}
